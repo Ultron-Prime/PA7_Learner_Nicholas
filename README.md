@@ -1,2 +1,2 @@
 # PA7_Learner_Nicholas
-WIP
+Seventh Project for CS202
