@@ -1,0 +1,17 @@
+This is the documentation for Nicholas Learner's Proj7 for CS 202-1001 at UNR, due @ midnight, 10-30-19.
+
+NOTE: "return 0;" was added to the end of the main() func in proj7.cpp
+
+The cstring and cstdlib header files are included for string funcs and the abs() func, respectively.
+
+The purpose of this program is to create, implement, and use MyString objects that operate in a similar
+fashion to common string objects, within provided specifications.
+
+The program works within the specifications, but if I spent more time on this project, I would adjust the
+formatting of the output from proj7.cpp to improve readability. I tried to keep the implementation as simple
+as possible to avoid mistakes, especially through using the string functions available in the cstring header
+file.
+
+There may be problems with the const qualifications within the [] operater (the indexing operator), but I
+don't think that was tested within the provided proj7.cpp.
+
